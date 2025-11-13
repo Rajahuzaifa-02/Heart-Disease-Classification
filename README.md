@@ -1,1 +1,1 @@
-# Diabetes-Classification
+# Heart-Disease-Classification
